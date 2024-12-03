@@ -56,6 +56,7 @@ Locators:
 •	Explain Different locators & its syntax in selenium
 types of xpaths
 which among the locators are faster
+What is the difference between single and double slash in X path?
 
 Dropdowns:
 How you can handle Dropdown list using Selenium WebDriver?
@@ -76,8 +77,34 @@ when to use AutoIT
 
 TestNG:
 What is a TestNG listener in Selenium WebDriver
-What is a DataProvider
+What is a DataProvider / How can we create a data-driven framework using TestNG?
+TestNG annotations
+What are TestNG Groups?
+Group of Groups in TestNG Groups:
+Groups Exclusion
+TestNG Asserts
+How to set test case priority in TestNG?
+What is Parameterized testing in TestNG?
+
 
 JUnit:
 What is JUnit Annotations and what are different types of annotations which are useful?
 
+Cucumber/Specflow:
+whats BDD
+Gherkin
+Background
+Scenario
+Scenario Outline & Examples
+Tags
+Tags using AND/OR
+What is the purpose of the Cucumber Options tag?
+Hooks
+Tagged Hooks
+Setting Order or Priority of Hooks
+HTML, JSON, XML and JUNIT Reports
+Feature file, Step Definition file
+What is the meaning of the TestRunner class in Cucumber?
+What do you understand by test harness in Cucumber?
+
+Regular Expressions Regex
