@@ -14,3 +14,25 @@
 •	Suggestions that you give in Sprint retrospective
 •	How do you find automation test cases from functionality?
 •	Explain framework restructuring
+•	Have you worked in sprint automation?
+•	What are your responsibilities in your current role?
+•	How do you calculate estimation for the test scenario?
+•	What kind of project are you working on?
+•	What will you do if you find a bug?
+•	What is defect life cycle?
+•	How do you handle a bug found in a completed sprint?
+•	How are requirement traceability matrix, testcase, and defects interrelated? How do you link the defects to the test cases?
+•	How do you maintain reports, what is allure report?
+•	What are the domains you have worked in?
+•	What’s your role in the current project?
+•	How do you prepare test data after the execution?
+•	How long a sprint lasts?
+•	What are the agile ceremonies?
+•	What’s the team size in Agile?
+•	What are the methods in API?
+•	What’s the difference between Authorization and Authentication?
+•	What are the status codes you’ve experienced and what do they mean?
+•	What’s the last major bug you’ve raised and how did you set the Severity and priority for that bug?
+•	How do you face people who treat QE badly?
+•	How do you face conflicts as QE?
+
