@@ -1,1 +1,3 @@
-
+•	Test Api using Multiple Data using Postman
+•	Whats different between Authorization and Authentication
+•	Different types of authentication used in your framework
