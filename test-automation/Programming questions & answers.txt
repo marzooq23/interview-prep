@@ -1,0 +1,18 @@
+•	Write a program to find the occurrence of letters in a string
+•	Java program strings occurrence of chars
+•	Palindrome
+•	Reverse a string
+•	Factorial
+•	Control statement
+•	Loops
+•	Can this keyword be used in a static method?
+•	Methods to pass parameters to a method
+•	Role and responsibilities in programming
+•	Java reverse string
+•	Is string Palindrome program
+•	Write code to login to a page
+•	Optimise code like how it'll be in a framework
+•	Write code for login page
+•	Write Xpath to identify browser names in Selenium page
+•	Write a program to remove special characters but include space.
+•	Give 2 lists of strings find common string and store it to 3rd list
