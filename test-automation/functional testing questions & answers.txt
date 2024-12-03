@@ -1,0 +1,16 @@
+•	Agile and its ceremonies
+•	Abstraction
+•	Sprint, Agile, Automation challenges
+•	Upload file, download file, window handles
+•	Exception handling, stale element exception, custom exceptions
+•	Assertion
+•	Api automation serialization, deserialization
+•	Authentication in API
+•	Put, Post methods
+•	Automation task estimation
+•	How do you handle conflicts or disagreements with team members?
+•	Describe a project that you worked on that had a tight deadline. How did you manage your time?
+•	Conflicts between dev team and test team
+•	Suggestions that you give in Sprint retrospective
+•	How do you find automation test cases from functionality?
+•	Explain framework restructuring
