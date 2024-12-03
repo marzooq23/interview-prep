@@ -1,0 +1,39 @@
+•	Automation framework in detail
+•	A scenario given, how to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
+•	What is Webdriver
+•	How to locate link in webpage
+•	Interface
+•	Difference between class and interface and usage of interface
+•	Allure report
+•	Write a code snippet to launch Firefox browser in WebDriver
+•	Test Api using Multiple Data using Postman
+•	Version of selenium and how it's different from old version
+•	How do you handle windows and tabs?
+•	How do you handle iframes?
+•	Diff between FindElement and FindElements.
+•	Explain Different locators in selenium
+•	Explain different waits in Selenium/ diff between implicit and explicit wait.
+•	How do you handle dynamic elements in Selenium WebDriver?
+•	Tell me some exceptions you have faced while writing the framework.
+•	Diff between driver.close() and driver.quit().
+•	Diff assertions in selenium (assert.assertEquals, assertTrue etc)
+•	What are the different types of navigation commands?
+•	How do you handle mouse actions in selenium and also write me the code for that?
+•	How do you handle alerts in Selenium and also write me the code?
+•	How can you find if an element is displayed on the screen? (like using isDisplayed, isEnabled etc)
+•	What is Page Object Model and how have you implemented in your framework and explain the same.
+•	What is Page Factory in Selenium?
+•	Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
+•	Explain the framework you are using
+•	How will you pass data to the test case
+•	What selenium version using
+•	Explain your test automation framework
+•	How to handle authentication popup for login in Selenium
+•	How will you handle flaky test cases without using waits
+•	Return type of find elements and how to implement that in java
+•	Experience with javascript
+•	How will you perform a task before executing a scenario in automation?
+•	Whats different between Authorization and Authentication
+•	Different types of authentication used in your framework
+•	What is the use of hooks
+•	What is mock and how is it used in your framework?
