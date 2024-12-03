@@ -9,15 +9,16 @@ What is mock and how is it used in your framework?
 what are types of framework 
 
 Selenium:
-Components of selenium & programming languages/browsers supported
+Components of selenium (IDE/Grid/RC/Web Driver) & programming languages/browsers supported
+Advantages of SE Grid
 
-Selenium Architecture (Web Driver):
+Selenium Web Driver Architecture:
 What selenium version using and how it's different from old version
-What is Webdriver/Explain web driver architecture (latest)
+What is Webdriver/Explain web driver architecture (latest - W3C/Old - JSON Wire protocol)
 Limitations of selenium/technical challenges with Selenium?
 
 Selenium Web Driver:
-Write a code snippet to launch a browser in WebDriver / How do you create a WebDriver instance
+Write code to launch a browser using WebDriver / How do you create a WebDriver instance
 Diff between driver.close() and driver.quit().
 why do you need Session Handling while working with selenium
 
@@ -63,9 +64,11 @@ How you can handle Dropdown list using Selenium WebDriver?
 
 Selenium Waits:
 Explain different waits in Selenium/ diff between implicit and explicit/fluent wait.
+How do you handle AJAX calls in Selenium?
 
 Selenium Exceptions:
 Tell me some exceptions you have faced while writing the framework.
+How do you handle exceptions?
 
 Selenium Capabilities:
 Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
