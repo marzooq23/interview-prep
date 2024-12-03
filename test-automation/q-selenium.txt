@@ -1,59 +1,59 @@
 Automation Framework:
-• Explain the test automation framework you are using in detail
-•	What is Page Object Model and how have you implemented in your framework and explain the same.
-•	What is Page Factory in Selenium?
-•	Reporting used in your project Allure report
-•	How will you pass data to the test case
-•	How will you handle flaky test cases without using waits
-•	What is mock and how is it used in your framework?
+Explain the test automation framework you are using in detail
+What is Page Object Model and how have you implemented in your framework and explain the same.
+What is Page Factory in Selenium?
+Reporting used in your project Allure report
+How will you pass data to the test case
+How will you handle flaky test cases without using waits
+What is mock and how is it used in your framework?
 what are types of framework 
 
 Selenium:
-•	Components of selenium & programming languages/browsers supported
+Components of selenium & programming languages/browsers supported
 
 Selenium Architecture (Web Driver):
-•	What selenium version using and how it's different from old version
-•	What is Webdriver/Explain web driver architecture (latest)
+What selenium version using and how it's different from old version
+What is Webdriver/Explain web driver architecture (latest)
 Limitations of selenium/technical challenges with Selenium?
 
 Selenium Web Driver:
-•	Write a code snippet to launch a browser in WebDriver / How do you create a WebDriver instance
-•	Diff between driver.close() and driver.quit().
+Write a code snippet to launch a browser in WebDriver / How do you create a WebDriver instance
+Diff between driver.close() and driver.quit().
 why do you need Session Handling while working with selenium
 
 Navigation:
-•	What are the different types of navigation commands?
+What are the different types of navigation commands?
 
 Window Handles:
-•	Difference between getWindowHandle() and getWindowHandles()
-•	How do you handle windows and tabs?
+Difference between getWindowHandle() and getWindowHandles()
+How do you handle windows and tabs?
 
 Iframes
-•	How do you handle iframes?
+How do you handle iframes?
 
 Actions:
-•	How do you handle mouse actions in selenium and also write me the code for that?
+How do you handle mouse actions in selenium and also write me the code for that?
 
 Alerts:
-•	How do you handle alerts in Selenium and also write me the code?
+How do you handle alerts in Selenium and also write me the code?
 
 WebPages:
 What are the different Webpage operation available in Selenium WebDriver? title/current url/page source
 
 Selenium Web Elements:
-•	whats a web element & how do you interact with it
-•	Diff between FindElement and FindElements.
-•	How to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
-•	How to locate link in webpage
-•	Diff between getText() and getAttribute()
-•	How do you handle dynamic elements in Selenium WebDriver?
-•	How can you find if an element is displayed on the screen? (like using isDisplayed, isEnabled etc)
-•	Return type of find elements and how to implement that in java/C#
+whats a web element & how do you interact with it
+Diff between FindElement and FindElements.
+How to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
+How to locate link in webpage
+Diff between getText() and getAttribute()
+How do you handle dynamic elements in Selenium WebDriver?
+How can you find if an element is displayed on the screen? (like using isDisplayed, isEnabled etc)
+Return type of find elements and how to implement that in java/C#
 Explain how you can handle colors in web driver?
 How will you use Selenium to upload a file?
 
 Locators:
-•	Explain Different locators & its syntax in selenium
+Explain Different locators & its syntax in selenium
 types of xpaths
 which among the locators are faster
 What is the difference between single and double slash in X path?
@@ -62,15 +62,15 @@ Dropdowns:
 How you can handle Dropdown list using Selenium WebDriver?
 
 Selenium Waits:
-•	Explain different waits in Selenium/ diff between implicit and explicit/fluent wait.
+Explain different waits in Selenium/ diff between implicit and explicit/fluent wait.
 
 Selenium Exceptions:
-•	Tell me some exceptions you have faced while writing the framework.
+Tell me some exceptions you have faced while writing the framework.
 
 Selenium Capabilities:
-•	Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
-•	Diff assertions (assert.assertEquals, assertTrue etc)
-•	How to handle authentication popup for login in Selenium/how you can login into any site if it’s showing any authentication popup for password and username?
+Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
+Diff assertions (assert.assertEquals, assertTrue etc)
+How to handle authentication popup for login in Selenium/how you can login into any site if it’s showing any authentication popup for password and username?
 
 AutoIT:
 when to use AutoIT
