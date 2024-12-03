@@ -19,32 +19,44 @@ Limitations of selenium/technical challenges with Selenium?
 
 Selenium Web Driver:
 Write code to launch a browser using WebDriver / How do you create a WebDriver instance
-Diff between driver.close() and driver.quit().
+Diff between driver.close(), driver.Dispose() and driver.quit().
 why do you need Session Handling while working with selenium
 
 Navigation:
 What are the different types of navigation commands?
+How to navigate to a web page
+How to navigate forward/backward
+how to refresh a web page
 
-Window Handles:
+Windows:
 Difference between getWindowHandle() and getWindowHandles()
 How do you handle windows and tabs?
+What are the different Webpage operation available in Selenium WebDriver? (or) how to get window handles/current window handle/title/current url/page source
+How to set window size
+How to get window size/position
+
+Switch To:
+How to switch to a active element
+How to switch to default content
+How to switch to a window/tab
+How to create a new  window/tab and switch to it
 
 Iframes
 How do you handle iframes?
 
-Actions:
-How do you handle mouse actions in selenium and also write me the code for that?
-
 Alerts:
-How do you handle alerts in Selenium and also write me the code?
+How do you handle alerts in Selenium
 
-WebPages:
-What are the different Webpage operation available in Selenium WebDriver? title/current url/page source
+Cookies:
+
+Network Interactions:
+
+Timeouts:
+How to set time outs for webdriver instance
 
 Selenium Web Elements:
 whats a web element & how do you interact with it
 Diff between FindElement and FindElements.
-How to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
 How to locate link in webpage
 Diff between getText() and getAttribute()
 How do you handle dynamic elements in Selenium WebDriver?
@@ -52,6 +64,11 @@ How can you find if an element is displayed on the screen? (like using isDisplay
 Return type of find elements and how to implement that in java/C#
 Explain how you can handle colors in web driver?
 How will you use Selenium to upload a file?
+how to get a element size/location
+
+Actions:
+How do you handle mouse actions (right click/double click/drag & drop/move to element)
+How do you use keyboard actions (key down/ key up)
 
 Locators:
 Explain Different locators & its syntax in selenium
@@ -60,15 +77,20 @@ which among the locators are faster
 What is the difference between single and double slash in X path?
 
 Dropdowns:
-How you can handle Dropdown list using Selenium WebDriver?
+How do you handle Dropdown list using Selenium WebDriver?
 
 Selenium Waits:
 Explain different waits in Selenium/ diff between implicit and explicit/fluent wait.
 How do you handle AJAX calls in Selenium?
 
+JavaScript Executor:
+how to scroll with JavaScript Executor
+
 Selenium Exceptions:
 Tell me some exceptions you have faced while writing the framework.
 How do you handle exceptions?
+
+How to find broken links in a page
 
 Selenium Capabilities:
 Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
