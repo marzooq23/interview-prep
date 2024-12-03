@@ -36,9 +36,10 @@ diff b/w driver.get vs driver.navigate().to()
 
 Windows:
 Difference between getWindowHandle() and getWindowHandles()
-How do you handle windows and tabs?
+How do you handle windows and tabs? How do you handle multiple windows/tabs using Selenium WebDriver?
 What are the different Webpage operation available in Selenium WebDriver? (or) how to get window handles/current window handle/title/current url/page source
 How to set browser window size
+How To Resize Browser Window Using Selenium WebDriver?
 How to get window size/position
 How to assert the title of a webpage? 
 
@@ -54,6 +55,7 @@ How do you handle iframes?
 
 Alerts:
 How do you handle alerts in Selenium
+Explain how you would handle a scenario where a JavaScript alert is raised during test execution.
 
 Screenshots:
 How to take screenshots in WebDriver?
@@ -78,14 +80,22 @@ How will you use Selenium to upload a file?
 how to get a element size/location
 How to click on a hyperlink in webelement?
 How to retrieve CSS properties of an element?
+
+What is DOM?
 How to upload a file in Selenium WebDriver? 
 How to find broken links in a page
+How do you handle geolocation prompts using Selenium WebDriver?
+How do you handle SSL certificate errors using Selenium WebDriver?
+How do you handle browser notifications using Selenium WebDriver?
+How can you redirect browsing from a browser through some proxy?
 
 Actions:
 How do you handle mouse actions (right click/double click/drag & drop/move to element)
-How do you use keyboard actions (key down/ key up)
-How to mouse hover over a web element? 
+How do you use keyboard actions (key down/ key up) (or) How can you simulate keyboard events using Selenium WebDriver?
+How to mouse hover over a web element? (or) How can you simulate mouse hover actions using Selenium WebDriver?
 How do you perform drag and drop operations in WebDriver?
+
+How to press ENTER key on the text box In Selenium WebDriver?
 
 Locators:
 Explain Different locators & its syntax in selenium
@@ -93,6 +103,7 @@ types of xpaths
 which among the locators are faster
 What is the difference between single and double slash in X path?
 How can we move to the nth-child element using XPath?
+What are Relative Locators
 
 Dropdowns:
 How do you handle Dropdown list using Selenium WebDriver?
@@ -108,6 +119,7 @@ Is there a way to type in a textbox without using sendKeys()?
 Selenium Exceptions:
 Tell me some exceptions you have faced while writing the framework.
 How do you handle exceptions?
+How do you deal with stale element exceptions in Selenium?
 
 Difference between assert and verify commands.
 
@@ -115,10 +127,12 @@ Selenium Capabilities:
 Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
 Diff assertions (assert.assertEquals, assertTrue etc)
 How to handle authentication popup for login in Selenium/how you can login into any site if it’s showing any authentication popup for password and username?
+What is the Chromium DevTools Protocol (CDP) Integration 
 
 AutoIT:
 when to use AutoIT
 How does Selenium handle Windows-based pop-ups?
+What is a Robot class? 
 
 TestNG:
 What is a TestNG listener in Selenium WebDriver
