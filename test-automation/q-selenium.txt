@@ -1,13 +1,23 @@
-• Explain Automation framework in detail
-•	How to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
-•	What is Webdriver
-•	How to locate link in webpage
+OOPS:
 •	Interface
 •	Difference between class and interface and usage of interface
-•	Allure report
-•	Write a code snippet to launch Firefox browser in WebDriver
+
+
+•	How will you perform a task before executing a scenario in automation?
+•	What is the use of hooks
+
+API:
 •	Test Api using Multiple Data using Postman
-•	Version of selenium and how it's different from old version
+•	Whats different between Authorization and Authentication
+•	Different types of authentication used in your framework
+
+
+Selenium:
+•	How to handle Windows (Window handling) - with syntax, diff b/w windowhandle and windowhandles
+•	What is Webdriver
+•	What selenium version using and how it's different from old version
+•	How to locate link in webpage
+•	Write a code snippet to launch Firefox browser in WebDriver
 •	How do you handle windows and tabs?
 •	How do you handle iframes?
 •	Diff between FindElement and FindElements.
@@ -21,19 +31,16 @@
 •	How do you handle mouse actions in selenium and also write me the code for that?
 •	How do you handle alerts in Selenium and also write me the code?
 •	How can you find if an element is displayed on the screen? (like using isDisplayed, isEnabled etc)
+•	Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
+•	How to handle authentication popup for login in Selenium
+•	Return type of find elements and how to implement that in java/C#
+
+
+Automation Framework:
+• Explain the test automation framework you are using in detail
 •	What is Page Object Model and how have you implemented in your framework and explain the same.
 •	What is Page Factory in Selenium?
-•	Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
-•	Explain the framework you are using
+•	Reporting used in your project Allure report
 •	How will you pass data to the test case
-•	What selenium version using
-•	Explain your test automation framework
-•	How to handle authentication popup for login in Selenium
 •	How will you handle flaky test cases without using waits
-•	Return type of find elements and how to implement that in java
-•	Experience with javascript
-•	How will you perform a task before executing a scenario in automation?
-•	Whats different between Authorization and Authentication
-•	Different types of authentication used in your framework
-•	What is the use of hooks
 •	What is mock and how is it used in your framework?
