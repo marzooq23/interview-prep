@@ -16,3 +16,5 @@
 •	Write Xpath to identify browser names in Selenium page
 •	Write a program to remove special characters but include space.
 •	Give 2 lists of strings find common string and store it to 3rd list
+•	Interface
+•	Difference between class and interface and usage of interface
