@@ -6,7 +6,9 @@ Reporting used in your project Allure report
 How will you pass data to the test case
 How will you handle flaky test cases without using waits
 What is mock and how is it used in your framework?
-what are types of framework 
+what are types of framework
+what are the other automation frameworks available other than selenium
+what are the automation testing tools that are used for non-functional automation
 
 Selenium:
 Components of selenium (IDE/Grid/RC/Web Driver) & programming languages/browsers supported
@@ -15,6 +17,7 @@ Advantages of SE Grid
 Selenium Web Driver Architecture:
 What selenium version using and how it's different from old version
 What is Webdriver/Explain web driver architecture (latest - W3C/Old - JSON Wire protocol)
+whats BiDi BiDirectional functionality
 Limitations of selenium/technical challenges with Selenium?
 
 Selenium Web Driver:
@@ -27,15 +30,20 @@ What are the different types of navigation commands?
 How to navigate to a web page
 How to navigate forward/backward
 how to refresh a web page
+What are the different methods to refresh a web page in WebDriver?
+what happens when you navigate to an invalid url
+diff b/w driver.get vs driver.navigate().to()
 
 Windows:
 Difference between getWindowHandle() and getWindowHandles()
 How do you handle windows and tabs?
 What are the different Webpage operation available in Selenium WebDriver? (or) how to get window handles/current window handle/title/current url/page source
-How to set window size
+How to set browser window size
 How to get window size/position
+How to assert the title of a webpage? 
 
 Switch To:
+What does the switchTo() command do? 
 How to switch to a active element
 How to switch to default content
 How to switch to a window/tab
@@ -46,6 +54,9 @@ How do you handle iframes?
 
 Alerts:
 How do you handle alerts in Selenium
+
+Screenshots:
+How to take screenshots in WebDriver?
 
 Cookies:
 
@@ -65,16 +76,23 @@ Return type of find elements and how to implement that in java/C#
 Explain how you can handle colors in web driver?
 How will you use Selenium to upload a file?
 how to get a element size/location
+How to click on a hyperlink in webelement?
+How to retrieve CSS properties of an element?
+How to upload a file in Selenium WebDriver? 
+How to find broken links in a page
 
 Actions:
 How do you handle mouse actions (right click/double click/drag & drop/move to element)
 How do you use keyboard actions (key down/ key up)
+How to mouse hover over a web element? 
+How do you perform drag and drop operations in WebDriver?
 
 Locators:
 Explain Different locators & its syntax in selenium
 types of xpaths
 which among the locators are faster
 What is the difference between single and double slash in X path?
+How can we move to the nth-child element using XPath?
 
 Dropdowns:
 How do you handle Dropdown list using Selenium WebDriver?
@@ -84,13 +102,14 @@ Explain different waits in Selenium/ diff between implicit and explicit/fluent w
 How do you handle AJAX calls in Selenium?
 
 JavaScript Executor:
-how to scroll with JavaScript Executor
+how to scroll (up/down) with JavaScript Executor
+Is there a way to type in a textbox without using sendKeys()?
 
 Selenium Exceptions:
 Tell me some exceptions you have faced while writing the framework.
 How do you handle exceptions?
 
-How to find broken links in a page
+Difference between assert and verify commands.
 
 Selenium Capabilities:
 Explain the concept of DesiredCapabilities and how they are used in Selenium WebDriver.
@@ -99,6 +118,7 @@ How to handle authentication popup for login in Selenium/how you can login into 
 
 AutoIT:
 when to use AutoIT
+How does Selenium handle Windows-based pop-ups?
 
 TestNG:
 What is a TestNG listener in Selenium WebDriver
@@ -110,7 +130,6 @@ Groups Exclusion
 TestNG Asserts
 How to set test case priority in TestNG?
 What is Parameterized testing in TestNG?
-
 
 JUnit:
 What is JUnit Annotations and what are different types of annotations which are useful?
@@ -131,5 +150,7 @@ HTML, JSON, XML and JUNIT Reports
 Feature file, Step Definition file
 What is the meaning of the TestRunner class in Cucumber?
 What do you understand by test harness in Cucumber?
+How to ignore a test
+How to Retry tests
 
 Regular Expressions Regex
